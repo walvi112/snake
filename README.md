@@ -1,6 +1,7 @@
 # Snake
-Simple snake game with C and SDL2 library and SDL2_ttf
-User presses SPACE to pause/unpause the game 
+* Simple snake game with C and SDL2 library and SDL2_ttf.
+* Press SPACE to pause/unpause the game. Press ESC to exit the game.
+![demo](demo.PNG)
 ## Requirements
 * CMake > 3.10
   * [CMake official page](https://cmake.org/)
